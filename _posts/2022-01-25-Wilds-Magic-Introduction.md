@@ -1,5 +1,5 @@
 ---
-title: Wilds Magic
+title: Wilds Magic Introduction
 date: 2022-01-25
 ---
 
