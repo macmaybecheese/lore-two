@@ -3,7 +3,7 @@ title: Wilds Magic
 date: 2022-01-25
 ---
 
- > *“The low drone of horns and the baying of hounds. That was the first sign of the Wild Hunt.”*
+ > “The low drone of horns and the baying of hounds. That was the first sign of the Wild Hunt.”
 
 
 	Magic is the means to influence nature and do things beyond its grasp. Magic can, indeed, have many sources, but it must have a source. Few humans can truly say that they are a source. Most fuel their magic from nature and other beings. Without a source, no magic can occur. Likewise, where there is more nature, more sources, there is more magic.
