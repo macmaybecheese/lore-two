@@ -65,6 +65,8 @@ I want some sort of bird. Maybe a couple of sorts.
 
 I also want another scalie option outside of Dragonborn—snakes?
 
+I think it might be interesting if all anthropomorphic goats are demons / demonic beings that aren't demons, like Tieflings.
+
 I haven’t developed anything with cats. I don’t really like anthro house cats all that much, and cat species, in general, are a classification nightmare, even in real life. Mmbut there might be at least one person that wants one. 
 
 For now, all other anthros are either integrated in one other nation—especially human nations—or are tribes / travelling/wandering people.
