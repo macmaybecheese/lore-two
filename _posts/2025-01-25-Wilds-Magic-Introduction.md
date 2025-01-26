@@ -1,6 +1,7 @@
 ---
 title: Wilds Magic Introduction
 date: 2025-01-25
+tags: magic
 ---
 
  > “The low drone of horns and the baying of hounds. That was the first sign of the Wild Hunt.”
