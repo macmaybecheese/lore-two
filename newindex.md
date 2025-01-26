@@ -6,7 +6,7 @@ title: The Ones
 
 Made a shitty fockin website to host my half-baked worldbuilding
 
-## Articles
+## Magic
 
 <ul style="list-style-type: none;">
   {% for post in site.posts reversed %}
