@@ -44,7 +44,7 @@ Of course, while there’d be a lot of inter-mingling, there would probably be a
 
 I have no fucking clue about foxes. Perhaps they could be wandering scoundrels and troubadours. Maybe they’d be like how wolves and canines are described, but with elves? Maybe they’d also live among humans? Both?
 
-Perhaps I could take a leaf out of a furry tabletop RPG and make gray foxes blue-blooded (figuratively) aristocrats?
+Perhaps I could take a leaf out of a furry tabletop RPG and make silver foxes blue-blooded (figuratively) aristocrats?
 
 ## Bats
 
