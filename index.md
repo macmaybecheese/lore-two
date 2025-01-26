@@ -13,7 +13,7 @@ Made a shitty fockin website to host my half-baked worldbuilding
   {% for post in magic[1] reversed %}
     <li>
       <p style="font-size: 14px; color: #828282;">{{ post.date | date: date_format }}</p>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ post.url |  relative_url }}">{{ post.title }}</a></h3>
       <br>
     </li>
   {% endfor %}
