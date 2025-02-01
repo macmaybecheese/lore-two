@@ -147,7 +147,7 @@ While these objects are not magical, they possess a quantic fingerprint, and thu
 
 **Augment (2 Q):** You no longer require concentration. You can choose this augment even after this ability has been Shaped.
 
-# Creation Extensions
+### Creation Extensions
 
 ## Additional Materials
 
@@ -186,7 +186,7 @@ You are able to make multiple objects, so long as they are of materials you can 
 
 **Augment (1 Q):** You may create a non-harmful object directly on a being, but they may be able to dodge it. These could be manacles, rope, or something else that restrains but does not deal direct damage. 
 
-# Drawbacks
+### Drawbacks
 
 ## Limited to One
 
