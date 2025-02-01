@@ -105,7 +105,7 @@ These flames emit dim, but illuminating, light for 3 m. Anything outlined in fla
 
 An extension is an additional effect, or a modification to the rules of a specific Ability or Abilities. 
 
-Generally, a Shaper may have a number of extension equal to their Quanta Pool, or half of their Quanta Pool.
+Generally, a Shaper may have a number of extensions equal to their Quanta Pool, or half of their Quanta Pool.
 
 A Shaper does **not** have any of the extension under an Ability by default. They must choose them. 
 
