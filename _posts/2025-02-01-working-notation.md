@@ -8,6 +8,8 @@ This document assumes a living Shaper with standard human-like physiology.
 
 Revisiting previous documentation on the mechanics of magical workings, Living Shapers need to fulfill the metaphysical, ritual, and material components of a working in order for it to happen.
 
+A working's tags are for ease of searching for workings with specific characteristics.
+
 A working's **Quanta Cost** indicates how much Quanta to be expended for the working to be set in motion. 
 
 “Ø” indicates a lack of a need for the indicated value. A working with a Quanta Cost of Ø is a Nil Quanta Working. Ø can be pronounced as “nil”.
@@ -56,3 +58,8 @@ A spell with a range of Self can only target its Shaper.
 The concept of "turns" are used in the descriptions of workings. While there is no turn system, it is easily visualized. 
 
 SI units (and SI derived units) are used where applicable. 
+
+Here's an example of what a spell would look like:
+
+
+
