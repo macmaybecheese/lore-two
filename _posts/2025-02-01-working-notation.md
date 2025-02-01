@@ -162,7 +162,7 @@ As your Quanta Pool grows, you get access to more resilient and rare materials.
 | 11 | Precious metals (gold, silver); Semi-precious materials (jet, fur, amber, horn, crystal) |
 | 17 | Gems |
 
-## (Al)chemical Procedures
+## (Al)chemical Synthesis
 
 **Augment (1 Q):** You can create an object that requires alchemy (chemical synthesis), such as basic poisons, acid, antitoxin, alcohol, gunpowder, and so on, as allowed by the setting. You cannot create magical objects with this extension, such as potions. You can create liquids with this extension, but only as needed to create alchemical items—not water or olive oil, for example. If you are able to make gasses with Creation via the Additional Materials extension, you may make gasses that would require alchemy (chemistry) and are harmful. 
 
