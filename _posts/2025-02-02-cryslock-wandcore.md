@@ -1,3 +1,7 @@
+---
+title: Some magical Technology
+---
+
 # Cryslock Items
 
 Cryslock technology is very simple, and considered to be outdated in more developed and ‘civilized’ areas. However, its simplicity grants it wider accessibility.
