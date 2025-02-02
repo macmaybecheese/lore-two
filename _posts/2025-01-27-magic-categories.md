@@ -89,4 +89,42 @@ As outlandish as quantic magic may seem, your counterspells, so familiar, lie he
 
 This is where workings can change workings, like doubling an otherwise set-in-stone spell’s duration.
 
-## Q\&A COMING SOON 
+# Q&A
+
+Now, this is just me asking myself some questions I think people would have. I haven't gotten any questions yet. DM me if you have some.
+
+**Q:** Where’s alchemy?
+
+**A:** It depends. What's being called alchemy in this setting is both creating magical substances and transmutation, and just plain-old chemistry. I'm just going to assume you're talking about magic.
+
+If you’re following a recipe, or if you’re inventing something new, making potions is under Goetia, as Goetic magic deals with making magic items, and using the guide of a Grimoire.
+
+If you’re making your own potions by experimentation and so on, that’d be under Esoterica, until it becomes mainstream.
+
+**Q:** Can magic be under multiple categories?
+
+**A:** Yes. 
+
+Each of these categories is a boundary, or, well, category in a system made up by people. Currently, I’m only using this system for tagging and the like *because I haven’t made any more yet.* 
+
+As I’ll say many, many times: you, the roleplayer, may know the rules for magic, and you, the character, may know it a different way—or not well at all.
+
+**Q:** Sex magic?
+
+**A:** On your own time, buddy. I might come up with some stuff if there’s a demand, though.
+
+
+**Q:**  Can my character learn multiple types of magic?
+
+**A:** Absolutely! However, just like with other professions, there is *specialization*. 
+
+Just like how everyone isn’t a scientist or a chef, not everyone is a professional Shaper. And, just like how every scientist isn’t a biologist, not every Shaper is an expert at Biota. 
+
+There’s even further sub-specialization, like genetics is to biology!  
+
+I don’t know any biologists that are also theoretical physicists that are also computer scientists. Do you? 
+
+However, a biologist could know a thing or two about theoretical physics, and have a big hobby for computer science. I hope this extended analogy helps.
+ 
+ 
+
