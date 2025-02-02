@@ -1,6 +1,6 @@
 ---
 title: holy shit notation for workings
-tags:
+tags: magic
 date: 2025-02-01
 ---
 
