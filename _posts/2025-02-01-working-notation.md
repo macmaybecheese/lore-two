@@ -147,7 +147,7 @@ While these objects are not magical, they possess a quantic fingerprint, and thu
 
 **Augment (2 Q):** You no longer require concentration. You can choose this augment even after this ability has been Shaped.
 
-### Creation Extensions
+# Creation Extensions
 
 ## Additional Materials
 
@@ -172,7 +172,7 @@ You are able to make intricate and complex objects with less effort and uncertai
 
 ## Food and Drink
 
-**Augment (1 Q):** You can create enough food and drink to sustain a number of human-sized creatures equal to your Quanta Cap for a day. Doing so takes 10 minutes to shape, instead of an Action. The duration of Creation for this instance is considered to be Instantaneous. Therefore, the food is non-magical and permanently created.
+**Augment (1 Q):** You can create enough food and drink to sustain a number of human-sized creatures equal to your Quanta Cap for a day. Doing so takes 10 minutes to Shape, instead of an Action. The duration of Creation for this instance is considered to be Instantaneous. Therefore, the food is non-magical and permanently created.
 
 The food created by this use of Creation is bland, but nourishing. If you also possess the Fine Detail extension, you can create food of any quality, but are subject to the rules of creating complex objects.
 
