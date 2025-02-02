@@ -1,5 +1,5 @@
 ---
-title: Some magical Technology
+title: Some Magical Technology
 ---
 
 # Cryslock Items
