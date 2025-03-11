@@ -5,7 +5,7 @@ tags: world
 
 Known also to the people of Þiuthangardi (𐌸𐌹𐌿𐌳𐌳𐌰𐌽𐌲𐌰𐍂𐌳𐌹) as Wilþyans (𐍅𐌹𐌻𐌸𐌾𐌰𐌽𐍃), the Aldwylds are the principal setting. 
 
-It is an insular peninsula (or island, I'll decide later) covered in dense forest, both pine and broadleaf. It is a somewhat dark land, ruled less by kingdoms and empires, but by bands of people and regional leaders. But, first, let’s look at those outside rulers.
+It is an insular island covered in dense forest, both pine and broadleaf. It is a somewhat dark land, ruled less by kingdoms and empires, but by bands of people and regional leaders. But, first, let’s look at those outside rulers.
 
 ## The Kingdoms and Empires Known to This World
 
