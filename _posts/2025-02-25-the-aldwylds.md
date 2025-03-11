@@ -9,7 +9,7 @@ It is an insular island covered in dense forest, both pine and broadleaf. It is 
 
 ## The Kingdoms and Empires Known to This World
 
-### Þiuthangardi (𐌸𐌹𐌿𐌳𐌳𐌰𐌽𐌲𐌰𐍂𐌳𐌹
+### Þiuthangardi (𐌸𐌹𐌿𐌳𐌳𐌰𐌽𐌲𐌰𐍂𐌳𐌹)
 
 Þiuthangardi (𐌸𐌹𐌿𐌳𐌳𐌰𐌽𐌲𐌰𐍂𐌳𐌹) is a wide reaching kingdom, primarily composed of humans, but people of every kind have been known to live within it.
 
@@ -62,6 +62,8 @@ On the mountain in the north of this region are the Hermit’s Woods, called suc
 
 The leader of this region has bandaged hands, feet and eyes. They wear woolen clothing. They speak in many voices. 
 
+### The Deepwoods
 
+While the whole island is primarily forest, this central region is thicker, deeper, and often, darker. And yet, people live there.
 
 
