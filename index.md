@@ -1,5 +1,5 @@
 ---
-title: The Ones
+title: Livestream Lore™
 ---
 
 # Livestream Lore™
