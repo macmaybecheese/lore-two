@@ -2,11 +2,11 @@
 title: The Ones
 ---
 
-# The Ones
+# Livestream Lore™
 
-Made a shitty fockin website to host my half-baked worldbuilding
+Made a shitty fockin website to host my half-baked worldbuilding which I guess I will now livestream before my friends
 
-## Magic (and everything else until i figure out jekyll)
+## Blog Posts Cus' This Is Fucking Jekyll
 {% for magic in site.tags %}
   {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
   <ul style="list-style-type: none;">
