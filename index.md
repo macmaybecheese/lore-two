@@ -6,7 +6,7 @@ title: Livestream Lore™
 
 Made a shitty fockin website to host my half-baked worldbuilding which I guess I will now livestream before my friends
 
-## Blog Posts Cus' This Is Fucking Jekyll
+## Blog Posts Cus' This Is Fuckin' Jekyll
 {% for magic in site.tags %}
   {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
   <ul style="list-style-type: none;">
