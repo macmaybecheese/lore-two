@@ -23,9 +23,12 @@ So we mixed up DOOM with Dune—I might be able to to use that
 Lots of talk of mushrooms—use it as a spice / melange analogue? Reminds me of this indie horror game about dog mushing and getting taken over by the forest.
 
 to take stock and recap
-I/we're making a blend of SCI-FI and MAGIC
+I/we're making a blend of SCI-FI and MAGIC 
+
 we want it to be GRIMDARK because we love TRAUMA
+
 we want PSYCHOACTIVE MUSHROOMS because we love DRUGS
+
 we mix up DOOM and DUNE on a regular basis
 
 
