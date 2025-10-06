@@ -18,5 +18,7 @@ I don't really want to make Spelljammer 2.0...
 
 But we might be making Warhammer 40,000 2.0, we'll see. Well, wasn't that just the original (fantasy) game blended with Dune? 
 
-So we mixed up DOOM with Dune—I might be able to to use that.
+So we mixed up DOOM with Dune—I might be able to to use that
+
+Lots of talk of mushrooms—use it as a spice / melange analogue? Reminds me of this indie horror game about dog mushing and getting taken over by the forest.
 
