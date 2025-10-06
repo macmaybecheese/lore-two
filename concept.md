@@ -1,6 +1,8 @@
-----------
+---
+layout: page
 title: The Concept
-----------
+permalink: /concept/
+---
 
 # Okay!
 
